@@ -79,8 +79,8 @@ function handleMouseOut() {
           <img src="https://reactresume.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftimbaker.78d3156f.webp&w=1080&q=75" alt="tim baker image" height="600" />
         </div>
 
-        <div className="container" style={{ marginTop: "50px", marginBottom: "50px" }}>
-          <h3 style={{ fontWeight: "bolder" }}>Create. Customize.<span style={{ color: "yellow" }}>Launch.</span> 🚀</h3>
+        <div className="container">
+          <h3 style={{ fontWeight: "bolder"}}>Create. Customize.<span style={{ color: "yellow" }}>Launch.</span> 🚀</h3>
           <h1 style={{ fontWeight: "bolder" }}>Everything you need: Have your site live in minutes</h1>
           <p style={{ fontWeight: "bolder" }}>Experience the ease of building your professional online presence with React Resume. With our range of features, from customizable templates to automatic hosting, we've streamlined the process, making it easy for you to create, customize, and launch your personal site in a matter of minutes.</p>
 
